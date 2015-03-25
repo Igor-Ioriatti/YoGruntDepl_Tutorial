@@ -1,1 +1,0 @@
-console.log('Debug of Yeoman Grunt Deployment Tutorial');
