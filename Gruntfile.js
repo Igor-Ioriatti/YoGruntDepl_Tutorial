@@ -342,8 +342,7 @@ module.exports = function (grunt) {
         heroku: {
           options: {
             remote: 'git@heroku.com:warm-brook-5328.git',
-            branch: 'gh-pages',
-            remoteBranch: 'master',
+            branch: 'master'
             tag: pkg.version
           }
         },
